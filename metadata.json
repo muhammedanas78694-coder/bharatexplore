@@ -1,0 +1,8 @@
+{
+  "name": "BharatExplore - India Travel & Food Guide",
+  "description": "Premium India-wide travel, authentic regional food, places, restaurants, and stays discovery platform covering all 28 states, union territories, districts, and towns.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
